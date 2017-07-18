@@ -1,0 +1,9 @@
+C:\Users\kenf\version-control\FrenchPronunciation\FrenchPronounciation\bin\Debug\FrenchPronounciation.exe.config
+C:\Users\kenf\version-control\FrenchPronunciation\FrenchPronounciation\bin\Debug\FrenchPronounciation.exe
+C:\Users\kenf\version-control\FrenchPronunciation\FrenchPronounciation\bin\Debug\FrenchPronounciation.pdb
+C:\Users\kenf\version-control\FrenchPronunciation\FrenchPronounciation\obj\Debug\FrenchPronunciation.csprojResolveAssemblyReference.cache
+C:\Users\kenf\version-control\FrenchPronunciation\FrenchPronounciation\obj\Debug\FrenchPronunciation.Form1.resources
+C:\Users\kenf\version-control\FrenchPronunciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.Properties.Resources.resources
+C:\Users\kenf\version-control\FrenchPronunciation\FrenchPronounciation\obj\Debug\FrenchPronunciation.csproj.GenerateResource.Cache
+C:\Users\kenf\version-control\FrenchPronunciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.exe
+C:\Users\kenf\version-control\FrenchPronunciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.pdb

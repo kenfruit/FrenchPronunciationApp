@@ -1,0 +1,20 @@
+c:\users\kenf\documents\visual studio 2015\Projects\FrenchPronounciation\FrenchPronounciation\bin\Debug\FrenchPronounciation.exe.config
+c:\users\kenf\documents\visual studio 2015\Projects\FrenchPronounciation\FrenchPronounciation\bin\Debug\FrenchPronounciation.exe
+c:\users\kenf\documents\visual studio 2015\Projects\FrenchPronounciation\FrenchPronounciation\bin\Debug\FrenchPronounciation.pdb
+c:\users\kenf\documents\visual studio 2015\Projects\FrenchPronounciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.csprojResolveAssemblyReference.cache
+c:\users\kenf\documents\visual studio 2015\Projects\FrenchPronounciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.Form1.resources
+c:\users\kenf\documents\visual studio 2015\Projects\FrenchPronounciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.Properties.Resources.resources
+c:\users\kenf\documents\visual studio 2015\Projects\FrenchPronounciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.csproj.GenerateResource.Cache
+c:\users\kenf\documents\visual studio 2015\Projects\FrenchPronounciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.exe
+c:\users\kenf\documents\visual studio 2015\Projects\FrenchPronounciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.pdb
+C:\Users\kenf\version-control\FrenchPronounciation\FrenchPronounciation\bin\Debug\FrenchPronounciation.exe.config
+C:\Users\kenf\version-control\FrenchPronounciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.exe
+C:\Users\kenf\version-control\FrenchPronounciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.pdb
+C:\Users\kenf\version-control\FrenchPronounciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.Form1.resources
+C:\Users\kenf\version-control\FrenchPronounciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.Properties.Resources.resources
+C:\Users\kenf\version-control\FrenchPronounciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.csproj.GenerateResource.Cache
+C:\Users\kenf\version-control\FrenchPronounciation\FrenchPronounciation\bin\Debug\FrenchPronounciation.exe
+C:\Users\kenf\version-control\FrenchPronounciation\FrenchPronounciation\bin\Debug\FrenchPronounciation.pdb
+C:\Users\kenf\version-control\FrenchPronunciation\FrenchPronounciation\bin\Debug\FrenchPronounciation.exe.config
+C:\Users\kenf\version-control\FrenchPronunciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.exe
+C:\Users\kenf\version-control\FrenchPronunciation\FrenchPronounciation\obj\Debug\FrenchPronounciation.pdb
